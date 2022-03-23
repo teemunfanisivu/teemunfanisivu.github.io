@@ -56,3 +56,15 @@ h1{
     top: 7%;
     left: 85%;
 }
+
+.facts{
+    position: absolute;
+    top: 90%;
+    left: 1%;
+}
+
+.box{
+    display: block;
+    float: left;
+    width: 20%;
+}
