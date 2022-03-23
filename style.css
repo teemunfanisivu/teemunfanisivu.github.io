@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.5s ease;
+}
+
+ul li a:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+ul li.active a{
+    background-color: #fff;
+    color: #000;
+}
+
+header{
+    background-image: url(Images/background.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+}
+
+.eitoimi{
+    position: absolute;
+    top: 7%;
+    left: 85%;
+}
