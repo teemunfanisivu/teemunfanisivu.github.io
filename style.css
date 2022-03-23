@@ -68,3 +68,9 @@ h1{
     float: left;
     width: 20%;
 }
+
+lolz{
+    background-image: url(Images/Background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
