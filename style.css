@@ -39,7 +39,7 @@ ul li.active a{
     color: #000;
 }
 
-header{
+body{
     background-image: url(Images/background.jpg);
     height: 100vh;
     background-size: cover;
